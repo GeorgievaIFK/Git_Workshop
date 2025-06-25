@@ -1,2 +1,2 @@
 print("Hallo SuA!")
-print("Ich bin Boyana")
+print("Ich bin nicht Boyana")
